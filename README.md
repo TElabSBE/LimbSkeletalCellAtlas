@@ -11,7 +11,7 @@ Breakthroughs in improving scalability have led to the creation of organism-wide
 To avoid conflicts between package dependencies, it is strongly recommended to use our [Docker](https://hub.docker.com/r/gnasello/sc-env) environment.
 
 ### Web app documentation
-The source code of the web app hosted at http://skeletalcellatlas.org/ along with tutorials for running the app locally are aailable at [this repository](https://github.com/mbarzegary/skeletal-cell-atlas)
+The source code of the web app hosted at http://skeletalcellatlas.org/ along with tutorials for running the app locally are available at [this repository](https://github.com/mbarzegary/skeletal-cell-atlas).
 
 ### Citation
 Herpelinck, T._*_, Ory, L._*_, Verbraeken, T. _et al._ A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages. _Sci Rep_ *15*, 22514 (2025). https://doi.org/10.1038/s41598-025-05277-6
